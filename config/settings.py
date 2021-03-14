@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     #own
     'rest_framework',
+    'django_filters',
     'apps.decks',
     'apps.cards',
 ]
